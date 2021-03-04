@@ -1,0 +1,7 @@
+{
+    "Concredito_Back-End/*":{
+        "target":"http://localhost:8084",
+        "secure":false,
+        "logLevel":"debug"
+    }
+}
