@@ -1,0 +1,14 @@
+com\mycompany\Cosultas\ProspectoConsult.class
+com\mycompany\Services\ProspectoServiceImp.class
+com\mycompany\Cosultas\SeguimientoEvaluacionConsult.class
+com\mycompany\Controladores\RS\addEvaluaciones.class
+com\mycompany\basedatos\Conexionbd.class
+com\mycompany\Controladores\RS\viewEvaluacion.class
+com\mycompany\Controladores\RS\getProspectos.class
+com\mycompany\Services\SeguimientoEvaluacionServiceImp.class
+com\mycompany\Controladores\RS\addProspectos.class
+com\mycompany\Modelos\SeguimientoEvaluacionModel.class
+com\mycompany\Services\ProspectoService.class
+com\mycompany\Services\SeguimientoEvaluacionService.class
+com\mycompany\Controladores\RS\viewProspecto.class
+com\mycompany\Modelos\ProspectoModel.class
